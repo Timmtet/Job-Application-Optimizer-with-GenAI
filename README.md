@@ -31,7 +31,9 @@ The solution integrates:
 - **Streamlit** for the interactive user interface
 
 
-![Architecture](https://your-architecture-diagram-link-if-any.png)
+![image](https://github.com/user-attachments/assets/818e8d70-fa89-43ad-896c-4a71a2697c21)
+
+
 
 ---
 
