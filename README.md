@@ -30,8 +30,6 @@ The solution integrates:
 
 - **Streamlit** for the interactive user interface
 
-- **.env / st.secrets** for secure API key handling
-
 
 ![Architecture](https://your-architecture-diagram-link-if-any.png)
 
@@ -39,10 +37,16 @@ The solution integrates:
 
 ## 🗂️ Project Structure
 
-├── app.py # Main Streamlit app ├── requirements.txt # Python dependencies ├── .env # Environment variables (excluded from GitHub) └── .venv/ # Virtual environment (excluded from GitHub)
+├── app.py # Main Streamlit app 
+
+├── requirements.txt # Python dependencies 
+
+├── .env # Environment variables 
+
+├── .venv/ # Virtual environment 
 ---
 
-# Getting Started
+## Getting Started
 
 ## 1. Clone the repository
 
@@ -55,7 +59,7 @@ cd Job-Application-Optimizer-with-GenAI
 
 python -m venv .venv
 
-source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+.venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
 
@@ -67,9 +71,10 @@ Create a .env file (if running locally):
 GOOGLE_API_KEY=your_google_api_key_here
 
 
-4. Run the app
+## 4. Run the app
 
 streamlit run app.py
+
 
 ## Acknowledgements
 
