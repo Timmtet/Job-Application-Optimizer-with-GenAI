@@ -46,6 +46,7 @@ The solution integrates:
 ├── .env # Environment variables 
 
 ├── .venv/ # Virtual environment 
+
 ---
 
 ## Getting Started
