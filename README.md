@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ## 3. Add your Google API Key
 
-Create a .env file (if running locally):
+Create a .env file:
 
 GOOGLE_API_KEY=your_google_api_key_here
 
