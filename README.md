@@ -1,4 +1,4 @@
-# 💼 Job Application Optimizer with GenAI 🚀
+# Job Application Optimizer with GenAI 
 
 This project is part of the 5-day Gen AI Intensive Course with Google (2025Q1). It is an  AI-powered resume optimization tool that helps job seekers tailor their CVs to job descriptions, providing targeted feedback and recommendations for improvement using Generative AI and Retrieval-Augmented Generation (RAG).
 
