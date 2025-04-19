@@ -5,6 +5,8 @@ This project is part of the 5-day Gen AI Intensive Course with Google (2025Q1). 
 
 [👉 Try the App on Streamlit](https://job-application-optimizer-with-genai.streamlit.app/)
 
+[Blogpost](https://medium.com/@akintilotimileyin/building-a-job-application-optimization-assistant-with-generative-ai-2b18651ebc69)
+
 ---
 
 ##  Features
